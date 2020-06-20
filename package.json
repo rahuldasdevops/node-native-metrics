@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:newrelic/node-native-metrics"
+    "url": "git@github.com:rahuldasdevops/node-native-metrics"
   },
   "keywords": [
     "newrelic",
@@ -29,14 +29,6 @@
     "gc metrics",
     "native-metrics",
     "native metrics"
-  ],
-  "author": "New Relic Node.js agent team <nodejs@newrelic.com>",
-  "contributors": [
-    {
-      "name": "Natalie Wolfe",
-      "email": "nwolfe@newrelic.com",
-      "web": "https://newrelic.com"
-    }
   ],
   "license": "LicenseRef-LICENSE",
   "engines": {
