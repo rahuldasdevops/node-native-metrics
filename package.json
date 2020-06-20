@@ -14,7 +14,7 @@
     "native": "node tests/native/*.js",
     "test": "npm run lint && npm run unit",
     "install": "node ./lib/pre-build.js install native_metrics" ,
-    "postversion": "git push && git push --tags && rm -rf build/temp"
+    "postversion": "git push --tags && git push && rm -rf build/temp"
   },
   "repository": {
     "type": "git",
