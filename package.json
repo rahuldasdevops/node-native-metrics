@@ -1,6 +1,6 @@
 {
   "name": "@newrelic/native-metrics",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "description": "A module for generating metrics from V8.",
   "main": "index.js",
   "scripts": {
@@ -18,8 +18,8 @@
     "postversion": "git push origin HEAD:development && rm -rf build/temp"
   },
   "publishConfig": {
-   	 "registry": "http://192.168.101.10:8081/repository/npm-private/"
-  	},
+    "registry": "http://192.168.101.10:8081/repository/npm-private/"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:rahuldasdevops/node-native-metrics"
