@@ -1,6 +1,6 @@
 {
   "name": "@newrelic/native-metrics",
-  "version": "0.9.36",
+  "version": "0.9.37",
   "repoName": "npm-private",
   "description": "A module for generating metrics from V8.",
   "main": "index.js",
